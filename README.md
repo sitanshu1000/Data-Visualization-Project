@@ -38,7 +38,7 @@ The following tasks and questions will drive the visualization and interaction d
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 The above sketch showcases 4 visualisations that I hope to incorporate into my project.  
-The first visualisaiton is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualisation.
+The first visualisaiton is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualisation. The user can intelligently see how each players' stats differ and compare the attributes for different on field positions.    
 The second visualisation 
 
 ## Open Questions
