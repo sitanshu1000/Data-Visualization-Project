@@ -26,16 +26,20 @@ I’ve created a proof of concept visualization of this data. It's a scatter plo
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How do the skill attributes of players differ based on their on field positions?
+ * Is there any correlation between player potential and player overall rating?
+ * What is the mix of nationalities in the player base?
+ * How valuable are the franchises and how much value does each player bring to their team?
 
 ## Sketches
 
 ![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/viz_sketch.jpg)
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+The above sketch showcases 4 visualisations that I hope to incorporate into my project.  
+The first visualisaiton is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualisation.
+The second visualisation 
 
 ## Open Questions
 
