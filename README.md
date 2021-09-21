@@ -39,7 +39,9 @@ The following tasks and questions will drive the visualization and interaction d
 
 The above sketch showcases 4 visualisations that I hope to incorporate into my project.  
 The first visualisaiton is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualisation. The user can intelligently see how each players' stats differ and compare the attributes for different on field positions.    
-The second visualisation 
+The second visualisation showcases a scatter plot between a player's overall rating vs his futute potential for all players. i hope to add some hover interactions where on moving the mouse over a particular point on the scatter plot, the user may be able to highlight that point and see who that player is with some additional information about that player. I believe this visualisation will answer the second question that I have proposed.    
+The third visualisation shown in the sketch is a sankey diagram showing each team's distrubution of nationalities of its players. I believe this is an intersting graph as it showcases how diverse and multi-ethnic each team is. Also, it can answer some interesting quesitons about a team's playstyle as players from each nationality have a distinct playstyle. This visualisation will answer the third proposed question.    
+The last visualisation 
 
 ## Open Questions
 
