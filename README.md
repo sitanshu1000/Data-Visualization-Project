@@ -18,7 +18,7 @@ The skill attributes in this dataset are numeric and out of 100. Some examples a
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a scatter plot between overall rating and their player potential rating
+I’ve created a proof of concept visualization of this data. It's a scatter plot between the players' overall rating and their future potential rating. This graph showcases the relationship between how good a player is now vs how good he can become in the future. Points on the top right side show players who are excellent now and have high future potential. Points on the bottom right side show players who may not be that good now but have an excellent potential and should be looked out for in the future. This graph is a good start towards this project.
 
 [![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/prototype.png)](https://vizhub.com/sitanshu1000/da49904037a14cabbc849a2202f4db16)
 
