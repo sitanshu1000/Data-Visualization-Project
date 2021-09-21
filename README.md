@@ -9,12 +9,12 @@ Some of the demographic attributes seen in the dataset are:
  * Player Nationality    
 
 The skill attributes in this dataset are numeric and out of 100. Some examples are:    
-* Shooting
-* Passing
-* Tackling
-* Dribbling
-* Sprint Speed
-* Acceleration    
+ * Shooting
+ * Passing
+ * Tackling
+ * Dribbling
+ * Sprint Speed
+ * Acceleration    
 
 ## Prototypes
 
@@ -34,15 +34,14 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 ![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/viz_sketch.jpg)
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
-The above sketch showcases 4 visualisations that I hope to incorporate into my project.  
-The first visualisaiton is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualisation. The user can intelligently see how each players' stats differ and compare the attributes for different on field positions.    
-The second visualisation showcases a scatter plot between a player's overall rating vs his futute potential for all players. i hope to add some hover interactions where on moving the mouse over a particular point on the scatter plot, the user may be able to highlight that point and see who that player is with some additional information about that player. I believe this visualisation will answer the second question that I have proposed.    
-The third visualisation shown in the sketch is a sankey diagram showing each team's distrubution of nationalities of its players. I believe this is an intersting graph as it showcases how diverse and multi-ethnic each team is. Also, it can answer some interesting quesitons about a team's playstyle as players from each nationality have a distinct playstyle. This visualisation will answer the third proposed question.    
-The last visualisation 
+The above sketch showcases 4 visualizations that I hope to incorporate into my project.  
+The first visualization is a wagon wheel with a player's skill attributes as the spokes of the wheel. I hope to create an interactive drop down where the user may be able to see the attributes for any player they wish. The attributes will be restricted to the 6 or 7 of the most important, so as not to clutter the visualization. The user can intelligently see how each players' stats differ and compare the attributes for different on field positions.    
+The second visualization showcases a scatter plot between a player's overall rating vs his futute potential for all players. i hope to add some hover interactions where on moving the mouse over a particular point on the scatter plot, the user may be able to highlight that point and see who that player is with some additional information about that player. I believe this visualization will answer the second question that I have proposed.    
+The third visualization shown in the sketch is a sankey diagram showing each team's distrubution of nationalities of its players. I believe this is an intersting graph as it showcases how diverse and multi-ethnic each team is. Also, it can answer some interesting quesitons about a team's playstyle as players from each nationality have a distinct playstyle. This visualization will answer the third proposed question.    
+The last visualization showcases how much value the players add to each franchise by measuring their contract and transfer values. I would like to make this visualization as a stacked bar graph. To add some interaction, I would like to show the user some information about the player on hovering over the bar.    
 
 ## Open Questions
 
 (describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+The wagon wheel seems to be a difficult visualisation to undertake. Also, the dataset I have chosen is quite large and maintaining and managing the columns could be a tedious task.
