@@ -6,7 +6,7 @@ The data I propose to visualize for my project is a dataset of soccer players fr
 Some of the demographic attributes seen in the dataset are:
  * Player Name
  * Player Age
- * Player Nationality
+ * Player Nationality    
 
 The skill attributes in this dataset are numeric and out of 100. Some examples are:    
 * Shooting
@@ -14,11 +14,11 @@ The skill attributes in this dataset are numeric and out of 100. Some examples a
 * Tackling
 * Dribbling
 * Sprint Speed
-* Acceleration
+* Acceleration    
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatter plot between overall rating and their player potential rating
 
 [![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/prototype.png)](https://vizhub.com/sitanshu1000/da49904037a14cabbc849a2202f4db16)
 
