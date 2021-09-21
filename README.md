@@ -2,23 +2,25 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is a dataset of soccer players from the popular video game, FIFA19. This game is a near-life sports simulation for the game of soccer. To meet size restrictions, I have only selected those players that ply their trade in the English Premier League, played in England and Wales. The dataset broadly contains demographic details and attributes describing the skills of the players in various aspects of soccer.    
+Some of the demographic attributes seen in the dataset are:
+ * Player Name
+ * Player Age
+ * Player Nationality
+
+The skill attributes in this dataset are numeric and out of 100. Some examples are:    
+* Shooting
+* Passing
+* Tackling
+* Dribbling
+* Sprint Speed
+* Acceleration
 
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
 [![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/prototype.png)](https://vizhub.com/sitanshu1000/da49904037a14cabbc849a2202f4db16)
-
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
 ## Questions & Tasks
 
