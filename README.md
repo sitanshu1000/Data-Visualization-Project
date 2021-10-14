@@ -50,3 +50,35 @@ The last visualization showcases how much value the players add to each franchis
 ## Open Questions
 
 The wagon wheel seems to be a difficult visualisation to undertake. Also, the dataset I have chosen is quite large and maintaining and managing the columns could be a tedious task.
+
+## Schedule of Deliverables
+
+## Schedule of Deliverables
+1.	Wagon Wheel chart	  	
+   - Create Wagon Wheel	(10/18-10/21)
+     - Create external skeleton  
+     - Group data into required columns
+   - Create final design for viz (10/21-10/25)
+     - Select colors for spokes
+     - Add interaction
+   - Fine Tuning and Improvements	(10/25)
+   
+2.	Interactive Scatter Plot
+   - Create Skeleton (10/14-10/15)
+   - Add basic axes	(10/15-10/16)
+   - Addition of dropdown functionality	(10/17-10/18)
+   - Adding a filter	(10/18)
+   - Fine Tuning and Improvements (10/29)
+   
+3.	Sankey chart
+   - Create skeleton	(10/29-10/30)
+     - Research best way to create sankey using d3
+   - Finalise columns to use	(10/30-10/31)
+   - Add interaction dropdown for player nationality (10/31-11/1)
+   - Fine Tuning and Improvements (11/1-11/3)
+   
+4.	Interactive Bar chart					
+   - Create skeleton (11/4-11/5)
+   - Choose interaciton elements (11/6-11/7)
+   - Add stacked feature and provide a filter to change type of stacking (11/8-11/11)
+   - Fine Tuning and Improvements	(11/11-11/13)
