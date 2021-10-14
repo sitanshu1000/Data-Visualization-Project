@@ -26,8 +26,9 @@ I’ve created a proof of concept visualization of this data. It's a scatter plo
 
 [![image](https://raw.githubusercontent.com/sitanshu1000/dataviz-project-template-proposal/master/Images/prototype.png)](https://vizhub.com/sitanshu1000/da49904037a14cabbc849a2202f4db16)
 
-[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Prototype%20advanced.png)]
-(https://vizhub.com/sitanshu1000/a309b39d47f342fc958e602cd49b014b)
+
+Here is an iterated version of the protoype with added interaction features like hover to view datapoints on the legend, a dropdown to select axes and a filter dropdown to slice the data.
+[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Prototype%20advanced.png)](https://vizhub.com/sitanshu1000/a309b39d47f342fc958e602cd49b014b)
 
 ## Questions & Tasks
 
