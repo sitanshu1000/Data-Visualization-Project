@@ -53,7 +53,6 @@ The wagon wheel seems to be a difficult visualisation to undertake. Also, the da
 
 ## Schedule of Deliverables
 
-## Schedule of Deliverables
 1.	Wagon Wheel chart	  	
    - Create Wagon Wheel	(10/18-10/21)
      - Create external skeleton  
