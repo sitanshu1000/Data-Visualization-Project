@@ -2,7 +2,7 @@
 
 ## Video Proposal
 
-Here is the [link](https://drive.google.com/file/d/1nIsofGnsogWzrRpZ5fj85mETM_woUoon/view?usp=sharing) to a brief video explaining this project and its goals.
+Here is the [link](https://drive.google.com/file/d/1qT7_e6ePWFEYIriSd-JZruZATct-db9m/view?usp=sharing) to a brief video explaining this project and its goals.
 
 ## Data
 
