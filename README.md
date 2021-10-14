@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is a dataset of soccer players from the popular video game, FIFA19. This game is a near-life sports simulation for the game of soccer. To meet size restrictions, I have only selected those players that ply their trade in the English Premier League, played in England and Wales. The dataset broadly contains demographic details and attributes describing the skills of the players in various aspects of soccer.    
+The data I propose to visualize for my project is a [dataset](https://gist.github.com/sitanshu1000/cf0eee9c4fb0a09fc96644650294c0eb) of soccer players from the popular video game, FIFA19. This game is a near-life sports simulation for the game of soccer. To meet size restrictions, I have only selected those players that ply their trade in the English Premier League, played in England and Wales. The dataset broadly contains demographic details and attributes describing the skills of the players in various aspects of soccer.    
 Some of the demographic attributes seen in the dataset are:
  * Player Name
  * Player Age
