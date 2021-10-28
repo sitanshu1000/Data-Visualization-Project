@@ -30,6 +30,18 @@ I’ve created a proof of concept visualization of this data. It's a scatter plo
 Here is an iterated version of the protoype with added interaction features like hover to view datapoints on the legend, a dropdown to select axes and a filter dropdown to slice the data.
 [![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Prototype%20advanced.png)](https://vizhub.com/sitanshu1000/a309b39d47f342fc958e602cd49b014b)
 
+
+This viz is created incorporating feedback provided by Prof. Kelleher    
+It is a scatterplot between 'Player Wage per week' and the players' 'Overall' rating.    
+An interesting scatterplot which I did not think of before, this viz can help the user derive many insights.    
+Such as, which players have high ratings, but are poorly paid, these players may be in line for a trade to a different team for hgher wages.    
+Conversely, we can also derive those players who are paid handsomely, eventhough they are not highly rated, these players must be avoided.    
+
+Also incorporated, are some demographic details of the player, such as the club they play for, nationality and their potential.    
+These details can be seen using the brush tool.
+[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Feedback.png)](https://vizhub.com/sitanshu1000/b29cb18adcc04ed0ad823e79238e86c7)
+
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
