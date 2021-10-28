@@ -31,7 +31,7 @@ Here is an iterated version of the protoype with added interaction features like
 [![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Prototype%20advanced.png)](https://vizhub.com/sitanshu1000/a309b39d47f342fc958e602cd49b014b)
 
 
-This viz is created incorporating feedback provided by Prof. Kelleher    
+This viz below is created incorporating feedback provided by Prof. Kelleher    
 It is a scatterplot between 'Player Wage per week' and the players' 'Overall' rating.    
 An interesting scatterplot which I did not think of before, this viz can help the user derive many insights.    
 Such as, which players have high ratings, but are poorly paid, these players may be in line for a trade to a different team for hgher wages.    
