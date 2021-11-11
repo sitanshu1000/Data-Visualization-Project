@@ -41,6 +41,12 @@ Also incorporated, are some demographic details of the player, such as the club 
 These details can be seen using the brush tool.
 [![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Feedback.png)](https://vizhub.com/sitanshu1000/b29cb18adcc04ed0ad823e79238e86c7)
 
+### Continuing Project Work
+This viz is created as a part of the 'Continue Working on Project' assignment. 
+It is my attempt at creating a sankey diagram using d3-sankey.  
+This sankey diagram shows links between a player's nationality and the franchise he plays for.     
+This viz is still in a primitive stage and requires more work before it is ready.
+[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Feedback.png)](https://vizhub.com/sitanshu1000/1043ca12b6894624aa05c51f4a6b34e0)
 
 ## Questions & Tasks
 
