@@ -111,9 +111,9 @@ The wagon wheel seems to be a difficult visualisation to undertake. Also, the da
    - Fine Tuning and Improvements	(11/11-11/13)
 
 5. Add Brush Elements
-   - Add Brush elements to all visualizations (12/1)
+- Add Brush elements to all visualizations (12/1)
 
 6. Multiple Views (12/8)
-   - Create skeleton for multiple views
-   - Make Sure all graphs are compatible
-   - Fine Tuning
+- Create skeleton for multiple views
+- Make Sure all graphs are compatible
+- Fine Tuning
