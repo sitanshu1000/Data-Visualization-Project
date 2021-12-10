@@ -57,9 +57,6 @@ Sankey Graph with finished touches
 
 Another action item to be added is the multiple views on a single page. I would like to add some common drop down menus that slice the data for the entire page and all the vizualisations in them.    
 
-## Final Dashboard
-[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Final%20Dashboard.png)](https://vizhub.com/sitanshu1000/0864dd23e2b14944af520402b2cd496b?file=index.html&mode=full)  
-
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
@@ -88,6 +85,9 @@ The last visualization showcases how much value the players add to each franchis
 ## Open Questions
 
 The wagon wheel seems to be a difficult visualisation to undertake. Also, the dataset I have chosen is quite large and maintaining and managing the columns could be a tedious task.
+
+## Final Dashboard
+[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Final%20Dashboard.png)](https://vizhub.com/sitanshu1000/0864dd23e2b14944af520402b2cd496b?file=index.html&mode=full)  
 
 ## Schedule of Deliverables
 
