@@ -2,7 +2,7 @@
 
 ## Final Video
 
-Here is the [link](https://drive.google.com/file/d/1qT7_e6ePWFEYIriSd-JZruZATct-db9m/view?usp=sharing) to the final video for this project.
+Here is the [link](https://youtu.be/mZWYuUhQ8P4) to the final video for this project.
 
 ## Video Proposal
 
