@@ -52,7 +52,7 @@ This sankey diagram shows links between a player's nationality and the franchise
 This viz is still in a primitive stage and requires more work before it is ready.
 [![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/Sankey.png)](https://vizhub.com/sitanshu1000/1043ca12b6894624aa05c51f4a6b34e0)   
 
-[![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/final_sankey.png)
+![image](https://raw.githubusercontent.com/sitanshu1000/Data-Visualization-Project/master/Images/final_sankey.png)
 Sankey Graph with finished touches 
 
 Another action item to be added is the multiple views on a single page. I would like to add some common drop down menus that slice the data for the entire page and all the vizualisations in them.    
